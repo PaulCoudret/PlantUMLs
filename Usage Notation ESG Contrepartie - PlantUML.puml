@@ -1,0 +1,12 @@
+@startuml
+!theme cerulean
+skinparam arrowThickness 1
+
+'Ajout des données du dictionnaire
+
+'Ajout des KPI
+
+'Ajout des Usages
+
+'Ajout des relations
+@enduml
